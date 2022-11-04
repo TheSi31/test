@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Reg">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/bth</item>
+        <item name="android:textSize">13.5sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">15dp</item>
+    </style>
+    <style name="login" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

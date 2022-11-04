@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hna</string>
+    <string name="reg">Регистрация</string>
+    <string name="fio">ФИО</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="otel">Отделения</string>
+    <string name="group">Группа</string>
+    <string name="avto">Авторизация</string>
+    <string name="student">Студент/Ученик</string>
+    <string name="teacher">Учитель</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="zareg">Зарегистрироваться</string>
+    <string name="zalogin">У меня есть аккаунт</string>
+    <string name="avrotiz">Войти</string>
+</resources>
